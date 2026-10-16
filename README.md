@@ -1,0 +1,2 @@
+# premium-ejection-charge-001-ejection-charge-black-powder
+Stop second-guessing your black powder charges and risking failed deployments—this Notion hub turns your scattered notes into a repeatable, safety-first system.  This template solves the chaos of inconsistent ejection charges by centralizing all your calculations, logs, and reference data in one place. No more lost scratch paper or calculation erro
